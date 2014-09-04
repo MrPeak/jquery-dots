@@ -11,8 +11,8 @@ Select the elements and apply dots() method on it
 ```
 $(selector).dots({
   ellipType: 'dot',  // or 'asterisk'
-    wrapClass: 'elip-wrap', // any class name for this wrap element
-    responsive: false  // choose if enable responsive function or not
+  wrapClass: 'elip-wrap', // any class name for this wrap element
+  responsive: false  // choose if enable responsive function or not
 })
 ```
 All option members are optional
