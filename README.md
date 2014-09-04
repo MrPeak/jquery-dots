@@ -3,10 +3,8 @@ jquery-dots
 
 jQuery Plugin which can cut off the excess characters, and replace them with dots
 
----
 ##Usage
 
----
 ###`$.fn.dots`
 
 Select the elements and apply dots() method on it
@@ -23,6 +21,5 @@ See demo in example folder
 
 ##To do
 
----
 * Write JSDoc for source code
 * Make it more smooth
